@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepika Usike</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Reactjs,Vue.js, CI/CD**
+-
 
 - 👨‍💻 All of my projects are available at [https://github.com/usikedeepika?tab=repositories](https://github.com/usikedeepika?tab=repositories)
 
